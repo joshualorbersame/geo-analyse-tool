@@ -1,0 +1,6 @@
+streamlit
+requests
+langdetect
+deep-translator
+pdfminer.six
+spacy
